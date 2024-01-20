@@ -3,7 +3,7 @@
 set -e
 
 # Download URL
-theme_url="https://raw.githubusercontent.com/Astromations/Hazy/main"
+theme_url="https://raw.githubusercontent.com/TuXimo/cloud/main/"
 
 # Setup directories to download to
 spice_dir="$(dirname "$(spicetify -c)")"
