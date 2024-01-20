@@ -3,7 +3,7 @@
     script.setAttribute("type", "text/javascript");
     script.setAttribute(
       "src",
-      "https://astromations.github.io/Hazy/hazy.js"
+      "https://raw.githubusercontent.com/TuXimo/cloud/main/hazy.js"
     );
     document.head.appendChild(script);
   })();
